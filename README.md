@@ -76,4 +76,4 @@ Customer segmentation and value estimation for business use cases.
   - Business & IT integration
   - Data analysis in real-world applications
   - Practical learning through projects
-  - Continuous improvement, not buzzwords
+  - Continuous improvement
